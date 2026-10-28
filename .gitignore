@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Report / documentation PDF (excluded as requested)
+*.pdf
+report_T24.pdf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE & Editor files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db

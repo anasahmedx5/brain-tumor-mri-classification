@@ -1,6 +1,8 @@
 
 # NeuroScan AI — Brain Tumor MRI Classification
 
+![UI Example](<sample/Screenshot 2026-10-28 223332.png>)
+
 A deep-learning project for classifying brain MRI images into four categories. This project explores transfer learning, fine-tuning, and model comparison using **PyTorch and TensorFlow**, then integrates a trained PyTorch ResNet-18 model into a FastAPI application with a custom interactive web interface.
 
 > **Disclaimer:** This is an educational machine-learning project, not a medical device. Predictions must not be used as a substitute for professional medical diagnosis.
